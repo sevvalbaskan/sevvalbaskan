@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Sevvalbaskan</h1>
 <h3 align="center">Junior Software Developer</h3>
 
-- 🔭 I’m currently working on [Gezgin Rotasi Blog](https://github.com/sevvalbaskan/GezginRotasi_BlogProjesi_Sunum)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
